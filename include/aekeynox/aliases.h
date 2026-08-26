@@ -61,6 +61,8 @@
   #include "aliases/qwertz_de.h"
 #elifdef KB_LAYOUT_QWERTZ_HU
   #include "aliases/qwertz_hu.h"
+#elifdef KB_LAYOUT_QWERTZ_SK
+  #include "aliases/qwertz_sk.h"
 
 // Alternative Layouts
 #elifdef KB_LAYOUT_BEPO
